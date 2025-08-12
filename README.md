@@ -5,7 +5,7 @@
 ## Overview
 
 This high-performance training engine leverages the full computational power of RTX 5090 GPUs to deliver state-of-the-art computer vision model training with unprecedented efficiency. Built on FastAI and PyTorch, it implements advanced optimization techniques specifically designed for modern GPU architectures.
-![image]([https://imgur.com/a/hV7jn3A](https://github.com/JasonEran/Training-Model-22k/blob/main/img.jpg))
+![image](https://github.com/JasonEran/Training-Model-22k/blob/main/img.jpg)
 ## Key Features
 
 ### **GPU Optimization**
